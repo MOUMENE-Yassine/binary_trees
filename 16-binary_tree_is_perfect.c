@@ -16,7 +16,6 @@ size_t min_leaf_depth(const binary_tree_t *tree)
 }
 /**
  * binary_tree_is_perfect - function that creates a binary tree node.
- * @tree: binary_tree_t node
  *
  * @node: binary_tree_t node
  * @max_depth: integer
